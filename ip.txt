@@ -1,0 +1,416 @@
+#EXTM3U
+
+#EXTINF:-1 Sun Movie
+https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
+#EXTINF:-1 NBT 2
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+#EXTINF:-1 Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 ททบ. 5
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 Samurai
+https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8
+#EXTINF:-1 Media TV
+https://cdn6.goprimetime.info/feed/202105171329/LC3/index.m3u8
+#EXTINF:-1 tve
+https://cdn6.goprimetime.info/feed/202105171329/LC4/index.m3u8
+#EXTINF:-1 Rai Italia
+https://cdn6.goprimetime.info/feed/202105171329/LC7/index.m3u8
+#EXTINF:-1 TPTV 10
+http://49.231.66.85:1935/live/tptv/chunks.m3u8
+#EXTINF:-1 Pet Club
+https://cdn6.goprimetime.info/feed/202105171329/LC18/index.m3u8
+#EXTINF:-1 Action Hollywood Movie
+https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8
+#EXTINF:-1 Xing Kong
+https://cdn6.goprimetime.info/feed/202105171329/LC13/index.m3u8
+#EXTINF:-1 Channel V
+https://cdn6.goprimetime.info/feed/202105171329/LC14/index.m3u8
+#EXTINF:-1 Dubai TV
+https://cdn6.goprimetime.info/feed/202105171329/LC15/index.m3u8
+#EXTINF:-1 TNN24
+https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
+#EXTINF:-1 Dizi
+https://cdn6.goprimetime.info/feed/202105171329/LC31/index.m3u8
+#EXTINF:-1 JKN18
+http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunklist.m3u8
+#EXTINF:-1 CGTN
+https://cdn6.goprimetime.info/feed/202105171329/LC51/index.m3u8
+#EXTINF:-1 Lotus Macau
+https://cdn6.goprimetime.info/feed/202105171329/LC41/index.m3u8
+#EXTINF:-1 Trace
+https://cdn6.goprimetime.info/feed/202105171329/LC42/index.m3u8
+#EXTINF:-1 Nation22
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+#EXTINF:-1 Workpoint TV23
+http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
+#EXTINF:-1 True4U
+https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+#EXTINF:-1 GMM 25
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
+#EXTINF:-1 YTN
+https://cdn6.goprimetime.info/feed/202105171329/LC44/index.m3u8
+#EXTINF:-1 CH8 27
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 MySci
+https://cdn6.goprimetime.info/feed/202105171329/LC37/index.m3u8
+#EXTINF:-1 Mono 29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1 MCOT HD30
+https://tc-live1.sanook.com/live/22302_ch9.m3u8
+#EXTINF:-1 ONE 31
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 Thairath TV32
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 3 HD33
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+#EXTINF:-1 Amarin TV34
+http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8
+#EXTINF:-1 7HD 35
+https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+#EXTINF:-1 PPTV36
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
+#EXTINF:-1 Zee Nhang
+https://cdn6.goprimetime.info/feed/202105171329/LC5/index.m3u8
+#EXTINF:-1 Box Film
+https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8
+#EXTINF:-1 CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+#EXTINF:-1 8 Movies
+https://cdn-th.login.in.th/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 PM News TV
+https://live1.thaitvstream.com:443/play/pmnewstv/index.m3u8
+#EXTINF:-1 Lakorn Thai
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/chunks.m3u8
+#EXTINF:-1 TVB ไทย
+https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/chunks.m3u8
+#EXTINF:-1 MVTV
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
+#EXTINF:-1 69 สื่อออนไลน์ TV
+https://edge6a.v2h-cdn.com/m2a7/MediaOnline.stream_360p/chunks.m3u8
+#EXTINF:-1 Esan TV
+https://edge6a.v2h-cdn.com/m2s6/encoder_fk.stream_360p/manifest.m3u8
+#EXTINF:-1 Banteng 100
+https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunks.m3u8
+#EXTINF:-1 V2H 11
+https://edge6a.v2h-cdn.com/v2h/V2H11.stream_720p/chunks.m3u8
+#EXTINF:-1 V2H 12
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_720p/chunks.m3u8
+#EXTINF:-1 V2H 13
+https://edge6a.v2h-cdn.com/v2h/V2H13.stream_720p/chunks.m3u8
+#EXTINF:-1 V2H 14
+https://edge6a.v2h-cdn.com/v2h/V2H14.stream_720p/chunks.m3u8
+#EXTINF:-1 V2H 15
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_720p/chunks.m3u8
+#EXTINF:-1 Boomerang Thai 89
+http://916309128f3e.sn.mynetname.net:1935/aslive/boomerang/chunklist_w157982604.m3u8
+#EXTINF:-1 TOONEE
+http://916309128f3e.sn.mynetname.net:1935/aslive/toonee/chunklist.m3u8
+#EXTINF:-1 Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 RS Mall
+https://prsmedia-nnam1y.cdn.byteark.com/fleetstream/rsmall/000p/index.m3u8
+#EXTINF:-1 V2H2
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
+#EXTINF:-1 TVD2
+https://edge6a.v2h-cdn.com/appt7/TVD3.stream_720p/chunks.m3u8
+#EXTINF:-1 จอมยุทธ
+https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunks.m3u8
+#EXTINF:-1 Thookdee TV
+https://edge6a.v2h-cdn.com/appt7/Sanook.stream_720p/chunks.m3u8
+#EXTINF:-1 TVN Thai(PSI)
+https://edge6a.v2h-cdn.com/m2i7/TVN_THAI.stream_360p/chunks.m3u8
+#EXTINF:-1 Topline
+https://edge6a.v2h-cdn.com/m2i7/Topline.stream_360p/chunks.m3u8
+#EXTINF:-1 ลูกทุ่ง TVHD
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/chunks.m3u8
+#EXTINF:-1 PSI Saradee
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/chunks.m3u8
+#EXTINF:-1 สำรวจโลก
+http://203.159.95.172:8081/live/explore/playlist.m3u8
+#EXTINF:-1 เจริญเคเบิ้ล TV
+https://cdn6.goprimetime.info/feed/202105171329/LC32/index.m3u8
+#EXTINF:-1 V2H9
+https://edge6a.v2h-cdn.com/v2h/V2H9.stream_720p/chunks.m3u8
+#EXTINF:-1 ฟ้าวันใหม่
+https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunks.m3u8
+#EXTINF:-1 TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 MV Lao
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
+#EXTINF:-1 Lao Champa1
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1 Lao Champa2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1 Lao Champa3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+#EXTINF:-1 13 Siam TV
+http://live.24livetv.net:1935/live/13wDt2b6g4/chunks.m3u8
+#EXTINF:-1 DDTV
+http://203.156.63.20:1935/live/ddtv/chunks.m3u8
+#EXTINF:-1 BOONNIYOM TV HD
+http://live.boonniyom.tv:1935/live/bntvhd/chunks.m3u8
+#EXTINF:-1 Yateem TV (New!)
+https://vdo.plathong.net/wowza/muslimonair1/live/chunks.m3u8
+#EXTINF:-1 White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 FM95 ลูกทุ่งมหานคร
+https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w556944152.m3u8
+#EXTINF:-1 FM97 Mellow
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunks.m3u8
+#EXTINF:-1 FM99 Active Radio
+https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunks.m3u8
+#EXTINF:-1 FM100.5 News Network
+https://mcotdigital-toxjv5.cdn.byteark.com/radiocdn_edge/fm1005.stream_aac/chunks.m3u8
+#EXTINF:-1 Cool93
+https://coolism-web.cdn.byteark.com/;stream/1
+#EXTINF:-1 Goodtime Radio
+https://radio182.bugaboo.tv/liveedge_goodtime_radio/smil:audio.smil/chunks.m3u8
+#EXTINF:-1 AM891 ฟังหวย
+http://prdonline.prd.go.th:8202/;stream.mp3
+#EXTINF:-1 Greenwave
+https://atimeonline.smartclick.co.th/green
+#EXTINF:-1 EFM
+https://atimeonline.smartclick.co.th/efm
+#EXTINF:-1 Big FM
+http://media.login.in.th:8195/;stream.mp3
+#EXTINF:-1 ลูกทุ่งเน็ตเวิร์ค
+http://media.login.in.th:8200/;stream.mp3
+#EXTINF:-1 Easy FM
+https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-Med/chunks.m3u8
+#EXTINF:-1 Hitz 95.5
+https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-Med/chunks.m3u8
+#EXTINF:-1 มิติข่าว
+http://live3.smartbomb.co.th:8624/stream/1/
+#EXTINF:-1 ฟัง x 3
+http://link2.onair.network:8006/stream/1/
+#EXTINF:-1 FM One 103.5
+http://fmone.plathong.net:7010/stream/1/
+#EXTINF:-1 Fat 93
+http://112.121.151.133:8272/stream
+#EXTINF:-1 HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 HBO signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 True Chinese More
+https://smart-tv.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 TVB Pearl
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 HKIBC
+https://cdn.hkdtmb.com/hls/76/index.m3u8
+#EXTINF:-1 Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 Star World
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 Star Series
+http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+#EXTINF:-1 Thrill
+https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
+#EXTINF:-1 Warner TV
+https://smart-tv.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 AMC Presents
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 RUSH by AMC
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ViuTV 6
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 TVN
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+#EXTINF:-1 &Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 AXN
+https://smart-tv.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 Gameshow Network
+http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
+#EXTINF:-1 A&E TV
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 Blue Ant Entertainment
+http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 Blue Ant Extreme
+http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 KIX
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 Fuji TV
+http://211.21.12.236:11935/live/gd05.stream/playlist.m3u8
+#EXTINF:-1 Nippon TV
+http://211.21.12.236:11935/live/gd03.stream/playlist.m3u8
+#EXTINF:-1 TV Asahi
+http://211.21.12.236:11935/live/gd06.stream/playlist.m3u8
+#EXTINF:-1 TV Tokyo
+http://211.21.12.236:11935/live/gd07.stream/playlist.m3u8
+#EXTINF:-1 ITV2
+http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
+#EXTINF:-1 MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 K+
+http://210.210.155.35/session/c01c5ce4-4f72-11ec-bcf7-bc5584292bab/uq2663/h/h08/01.m3u8
+#EXTINF:-1 SBS Plus International
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 Da Vinci Kids
+http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 DreamWorks VN
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 CONTV Anime
+https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+#EXTINF:-1 Boomerang Inter
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 nickelodeon
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1 AniPlus 
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab6789df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 Sanook
+https://cdn6.goprimetime.info/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1 ANIMAL PLANET
+https://smart-tv.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 Discovery Asia
+https://smart-tv.livedoomovie.com:4431/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 BBC Lifestyle
+http://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+#EXTINF:-1 HISTORY2 HD
+https://smart-tv.livedoomovie.com:4431/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 HISTORY HD
+https://smart-tv.livedoomovie.com:4431/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 Outdoor Channel AU
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 Outdoor Channel VN
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 Premier HD1
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 Premier HD2
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 Premier HD3
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 Premier HD4
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 Premier HD5
+https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 bein1
+https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 bein2
+https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 True Sport HD1
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 True Sport HD2 
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 True Sport HD3
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 True Sport HD4
+https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 ATP Tennis
+http://203.154.243.89:11739
+#EXTINF:-1 Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 Tennis Channel+ 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:-1 Tennis Channel+ 3
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+#EXTINF:-1 MOTORVISION
+https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
+#EXTINF:-1 Fight Sport
+https://cdn6.goprimetime.info/feed/202105171329/LC36/index.m3u8
+#EXTINF:-1 Top Fight
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/playlist.m3u8
+#EXTINF:-1 MUTV
+https://smart-tv.livedoomovie.com:4431/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby
+#EXTINF:-1 Sports-Liverpool TV
+https://smart-tv.livedoomovie.com:4431/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 Golf channel
+https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 FREE SPORTS
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF:-1 World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 Now Sports Prime
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 SKyNET sport 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
+#EXTINF:-1 SKyNET sport 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
+#EXTINF:-1 Sport TV 1
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 Sport TV 2
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 Sport TV 3
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 Sport TV 4
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 Sport TV 5
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 true Sport 5
+https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 true Sport 7
+https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 EGG NETWORK
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 Sony Ten 1
+http://208.86.19.21/726.stream/index.m3u8
+#EXTINF:-1 Sony Ten 2
+http://208.86.19.21/712.stream/index.m3u8
+#EXTINF:-1 Sony Ten 3
+http://208.86.19.21/713.stream/index.m3u8
+#EXTINF:-1 SPOTV
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 SPOTV 2
+https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/chunks.m3u8
+#EXTINF:-1 CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 CCTV5+
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 BT Sport 1
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 BT Sport 2
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 beIN Xtra
+https://bein-plutolive-vo.akamaized.net/chunks.m3u8
+#EXTINF:-1 Setanta Sports
+https://185-107-80-245.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 Setanta Sports 2
+https://95-213-224-180.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 Canal+ Sport
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 FOX NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 CBS NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 CBS N
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 TV5Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 CBS NEWS
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 CHANNEL NEWS ASIA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
